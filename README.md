@@ -7,15 +7,7 @@ This project aims to provide product recommendations for an ecommerce platform. 
 - [Introduction](#introduction)
 - [Table of Contents](#table-of-contents)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Features](#features)
-- [Dependencies](#dependencies)
-- [Configuration](#configuration)
-- [Documentation](#documentation)
-- [Examples](#examples)
-- [Troubleshooting](#troubleshooting)
-- [Contributors](#contributors)
-- [License](#license)
 
 ## Installation
 1. Clone the repository:
@@ -25,4 +17,9 @@ This project aims to provide product recommendations for an ecommerce platform. 
 2. Navigate to the 
 ``cd ecommerce-product-recomendations''
 
+## Features
+* Data Cleaning and Preprocessing: Cleaning and preparing the dataset for analysis.
+* Exploratory Data Analysis (EDA): Analyzing the dataset to understand patterns and insights.
+* Implementation of Collaborative Filtering: Building a recommendation model using collaborative filtering techniques.
+  
 
